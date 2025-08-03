@@ -29,11 +29,6 @@ This project helped me strengthen my skills in:
 - Trend detection and visualization
 - Presenting insights in a business-friendly format
 
-## How to Run
-1. Clone the repository: git clone https://github.com/MikiyasKiflu/sales-analysis-project.git
-2. Open the Jupyter Notebook in your preferred environment
-3. Run the cells step-by-step to reproduce the analysis
-
 ## 📬 Contact
 Feel free to connect with me or reach out for collaboration or freelance data projects.
 
